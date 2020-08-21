@@ -1,0 +1,4 @@
+include ':moduletwo'
+include ':modulone'
+include ':app'
+rootProject.name = "MyModule"
